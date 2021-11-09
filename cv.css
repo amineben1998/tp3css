@@ -1,0 +1,79 @@
+body
+{
+    background-color: rgb(255, 253, 253); 
+    background-image: url("arriereplan.jpg");
+}
+.cc
+{
+  width: 50% ;  
+  margin: 0 auto;
+  border-radius:  60px;
+  box-shadow: 6px 6px 0px black;
+}
+
+.titre1 
+{
+    text-align: center ; 
+    font-family: Arial, Helvetica, sans-serif; 
+    border-bottom:5px solid black;
+    border-top:5px solid black;
+
+}
+.div1 
+{
+    text-align: center  ; 
+}
+
+
+.div0
+{
+    
+    padding: 2%;
+    line-height: 70%;
+    width: 50%;
+    margin: 0 auto;
+}
+.div2
+{
+
+    padding: 2%;
+    line-height: 120%;
+    width: 50%;
+    margin: 0 auto;
+}
+.para1
+{
+    line-height: 120%;
+    font-family:Verdana;
+    font-style: oblique;
+
+}
+.ul1
+{
+    line-height: 150%;
+
+}
+.legend
+{
+    text-align: right;
+}
+.ul2
+{
+    line-height: 150%;
+
+}
+
+h3
+{
+    background: linear-gradient(to right,#637a78,rgb(255, 255, 255));
+
+}
+.foot
+{
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px; 
+    
+
+}
